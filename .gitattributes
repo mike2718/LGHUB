@@ -15,6 +15,8 @@ Cookies-journal text eol=crlf
 window-state.json text eol=lf
 CURRENT text eol=lf
 LOG text eol=lf
+LOG.old text eol=lf
+frontend-store.json eol=lf
 
 # Denote all files that are truly binary and should not be modified.
 MANIFEST-* binary
